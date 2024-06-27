@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Network for robust and high-accuracy pavement crack segmentation"
+excerpt: "We propose a highly accurate and robust model for pavement crack segmentation. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
