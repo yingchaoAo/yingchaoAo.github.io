@@ -17,17 +17,36 @@ Moving forward, I am dedicated to pushing the boundaries of transportation engin
 
 Education
 =======
-| 2023 - 2027（expected）  | Department of Systems Engineering, City University of Hong Kong | Ph.D. in Systems Engineering              |
-| 2020 - 2023             | School of Qilu Transportation, Shandong University | Master of Engineering, Highway and Railway Engineering |
-| 2016 - 2020             | School of Qilu Transportation, Shandong University | Bachelor of Engineering, Civil Engineering |
+- **2023 - 2027 (expected)** 
+  - Department of Systems Engineering, City University of Hong Kong
+  - Ph.D. in Systems Engineering
+
+- **2020 - 2023**
+  - School of Qilu Transportation, Shandong University
+  - Master of Engineering, Highway and Railway Engineering
+
+- **2016 - 2020**
+  - School of Qilu Transportation, Shandong University
+  - Bachelor of Engineering, Civil Engineering
 
 Awards & Honors
 =======
-| 2023  | Postgraduate Studentship | City University of Hong Kong|
-| 2022  | Outstanding Graduate Student | Shandong University |
-| 2022  | The Second Prize of Postgraduate Scholarship | Shandong University |
-| 2021  | Outstanding Graduate Student | Shandong University |
-| 2021  | The First Prize of Postgraduate Scholarship | Shandong University |
-| 2020  | The First Prize of New Graduate Students Scholarship | Shandong University |
-| 2019  | The Third Prize of Undergraduate Scholarshi | Shandong University |
-| 2018  | The Third Prize of Undergraduate Scholarship | Shandong University |
+- **2023**
+  - Postgraduate Studentship, City University of Hong Kong
+
+- **2022**
+  - Outstanding Graduate Student, Shandong University
+  - The Second Prize of Postgraduate Scholarship, Shandong University
+
+- **2021**
+  - Outstanding Graduate Student, Shandong University
+  - The First Prize of Postgraduate Scholarship, Shandong University
+
+- **2020**
+  - The First Prize of New Graduate Students Scholarship, Shandong University
+
+- **2019**
+  - The Third Prize of Undergraduate Scholarship, Shandong University
+
+- **2018**
+  - The Third Prize of Undergraduate Scholarship, Shandong University
