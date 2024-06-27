@@ -9,7 +9,7 @@ redirect_from:
 
 I am ZHANG Yingchao, a Ph.D. student in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement condition assessment and intelligent traffic detection.
 
-Over the course of my academic journey, I have authored **3** journal articles and **1** conference paper, which have been published in prestigious venues such as _**Automation in Construction**_ and the _**IEEE Sensors Journal**_. My work has been cited 53 times according to [Google Scholar](https://scholar.google.com.hk/citations?user=OQk6skcAAAAJ&hl=zh-CN).
+Over the course of my academic journey, I have authored **3** journal articles and **1** conference paper, which have been published in prestigious venues such as _**Automation in Construction**_ and _**IEEE Sensors Journal**_. My work has been cited 53 times according to [Google Scholar](https://scholar.google.com.hk/citations?user=OQk6skcAAAAJ&hl=zh-CN).
 
 Moving forward, I am dedicated to pushing the boundaries of transportation engineering research and contributing to the development of innovative solutions for intelligent transportation systems. I am excited to collaborate with researchers and industry professionals, leveraging my technical expertise and interdisciplinary knowledge to tackle real-world challenges.
 
