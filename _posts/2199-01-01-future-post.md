@@ -1,11 +1,10 @@
 ---
-title: 'For future use'
-date: 2027-09-01
+title: 'How to Develop Mac Applications with PyQT5'
+date: 2024-06-28
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - PyQt5
+  - MacOS
+  - GUI
 ---
-
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+[github link](https://github.com/yingchaoAo/Mac-app)
