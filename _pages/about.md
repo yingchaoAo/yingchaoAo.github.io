@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +35,7 @@ redirect_from:
             margin-top: 0;
             font-size: 20px;
             margin-bottom: 15px;
-            background-color: #1a73e8;
+            background-color: #e0f7fa;
             color: #fff;
             padding: 10px;
             border-radius: 10px 10px 0 0;
@@ -79,7 +78,7 @@ redirect_from:
     <div class="container">
         <!-- Profile Module -->
         <div class="module profile">
-            <img src="profile.jpg" alt="Yingchao Zhang">
+            <alt="Yingchao Zhang">
             <div class="profile-info">
                 <h1>Yingchao Zhang’s Academic Homepage</h1>
                 <p>Ph.D. student in Systems Engineering at City University of Hong Kong</p>
