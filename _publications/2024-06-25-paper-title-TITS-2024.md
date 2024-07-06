@@ -1,6 +1,6 @@
-# 学术主页论文展示
-
-以下是一个示例代码，展示了如何使用HTML和CSS创建圆角矩形的论文展示版面：
+---
+permalink: /publication/2024-06-25-paper-title-TITS-2024
+---
 
 ```html
 <!DOCTYPE html>
