@@ -78,12 +78,9 @@ redirect_from:
     <div class="container">
         <!-- Profile Module -->
         <div class="module profile">
-            <alt="Yingchao Zhang">
-            <div class="profile-info">
-                <h1>Yingchao Zhang’s Academic Homepage</h1>
-                <p>Ph.D. student in Systems Engineering at City University of Hong Kong</p>
-                <p>Email: <a href="mailto:zhangyingchao@my.cityu.edu.hk">zhangyingchao@my.cityu.edu.hk</a></p>
-            </div>
+              <h1>Yingchao Zhang’s Academic Homepage</h1>
+              <p>Ph.D. student in Systems Engineering at City University of Hong Kong</p>
+              <p>Email: <a href="mailto:yingchao.zhang@my.cityu.edu.hk">yingchao.zhang@my.cityu.edu.hk</a></p>
         </div>
         
         <!-- About Module -->
