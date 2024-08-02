@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Yingchao Zhang's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +9,7 @@ redirect_from:
 <style>
     .header {
         background-color: white;
-        padding: 20px;
+        padding: 10px; /* 调整标题栏的高度 */
         border-radius: 10px;
         margin-bottom: 20px;
         text-align: center;
@@ -21,13 +20,27 @@ redirect_from:
         padding: 20px;
         border-radius: 10px;
         margin-bottom: 20px;
-        text-align: center;
     }
     .section:nth-child(odd) {
         background-color: #e0f7fa;
     }
     .section:nth-child(even) {
         background-color: #fce4ec;
+    }
+    .section h2 {
+        text-align: center;
+        position: relative;
+        padding-bottom: 10px; /* 调整标题下方的间距 */
+        margin-bottom: 20px;
+    }
+    .section h2::after {
+        content: "";
+        display: block;
+        width: 50%;
+        height: 2px;
+        background-color: black;
+        margin: 0 auto;
+        margin-top: 10px; /* 调整线条与标题之间的间距 */
     }
 </style>
 
@@ -43,7 +56,8 @@ redirect_from:
 
 <div class="section">
     <h2>Education</h2>
-    <p><strong>2023 - 2027 (expected):</strong> Ph.D. in Systems Engineering, City University of Hong Kong</p>
-    <p><strong>2020 - 2023:</strong> Master of Engineering, Highway and Railway Engineering, Shandong University</p>
-    <p><strong>2016 - 2020:</strong> Bachelor of Engineering, Civil Engineering, Shandong University</p>
+    <p><strong>2023 - 2027:</strong> Ph.D., City University of Hong Kong</p>
+    <p><strong>2020 - 2023:</strong> M.Eng, Shandong University</p>
+    <p><strong>2016 - 2020:</strong> B.Eng, Shandong University</p>
 </div>
+
