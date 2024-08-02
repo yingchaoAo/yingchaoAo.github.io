@@ -48,8 +48,8 @@ redirect_from:
     .section h2 {
         text-align: center;
         position: relative;
-        padding-bottom: 5px;
-        margin-bottom: 5px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
     }
     .section h2::after {
         content: "";
@@ -78,9 +78,9 @@ redirect_from:
     <h2>Education</h2>
 </div>
 <div class="education-content">
-    <p><strong>2023 - 2027 (expected):</strong> Ph.D. in Systems Engineering, City University of Hong Kong</p>
-    <p><strong>2020 - 2023:</strong> Master of Engineering, Highway and Railway Engineering, Shandong University</p>
-    <p><strong>2016 - 2020:</strong> Bachelor of Engineering, Civil Engineering, Shandong University</p>
+    <p><strong>2023 - 2027:</strong> Ph.D., City University of Hong Kong</p>
+    <p><strong>2020 - 2023:</strong> M.Eng, Shandong University</p>
+    <p><strong>2016 - 2020:</strong> B.Eng,Shandong University</p>
 </div>
 
 
