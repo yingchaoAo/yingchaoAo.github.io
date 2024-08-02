@@ -30,8 +30,8 @@ redirect_from:
     .section h2 {
         text-align: center;
         position: relative;
-        padding-bottom: 10px; /* 调整标题下方的间距 */
-        margin-bottom: 20px;
+        padding-bottom: 5px; /* 调整标题下方的间距 */
+        margin-bottom: 10px;
     }
     .section h2::after {
         content: "";
@@ -40,7 +40,7 @@ redirect_from:
         height: 2px;
         background-color: black;
         margin: 0 auto;
-        margin-top: 10px; /* 调整线条与标题之间的间距 */
+        margin-top: 5px; /* 调整线条与标题之间的间距 */
     }
 </style>
 
