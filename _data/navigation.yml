@@ -5,10 +5,10 @@ main:
 
   - title: "Conference"
     url: /conferences/
+    
+  - title: "TA"
+    url: /teachings/ 
 
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blogs/  
     
