@@ -17,9 +17,9 @@ redirect_from:
         font-weight: bold;
     }
     .section {
-        padding: 20px;
+        padding: 10px;
         border-radius: 10px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .section:nth-child(odd) {
         background-color: #e0f7fa;
@@ -40,7 +40,7 @@ redirect_from:
         height: 2px;
         background-color: black;
         margin: 0 auto;
-        margin-top: 5px; /* 调整线条与标题之间的间距 */
+        margin-top: 10px; /* 调整线条与标题之间的间距 */
     }
 </style>
 
@@ -51,7 +51,7 @@ redirect_from:
 <div class="section">
     <h2>About Me</h2>
     <p>I am a Ph.D. student in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement condition assessment and intelligent traffic detection.</p>
-    <p>Over the course of my academic journey, I have authored <strong>4 journal articles</strong> and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE Sensors Journal</em>. My work has been cited <strong>56 times</strong> according to <a href="https://scholar.google.com">Google Scholar</a>.</p>
+    <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS</em>, and so on. My work has been cited <strong>59 times</strong> according to <a href="https://scholar.google.com">Google Scholar</a>.</p>
 </div>
 
 <div class="section">
