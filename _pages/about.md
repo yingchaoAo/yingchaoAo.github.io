@@ -21,6 +21,7 @@ redirect_from:
         padding: 20px;
         border-radius: 10px;
         margin-bottom: 20px;
+        text-align: center;
     }
     .section:nth-child(odd) {
         background-color: #e0f7fa;
@@ -45,22 +46,4 @@ redirect_from:
     <p><strong>2023 - 2027 (expected):</strong> Ph.D. in Systems Engineering, City University of Hong Kong</p>
     <p><strong>2020 - 2023:</strong> Master of Engineering, Highway and Railway Engineering, Shandong University</p>
     <p><strong>2016 - 2020:</strong> Bachelor of Engineering, Civil Engineering, Shandong University</p>
-</div>
-
-<div class="section">
-    <h2>Papers</h2>
-    <ol>
-        <li>
-            <div class="section">
-                <h3>International Conference on Intelligent Traffic Systems and Smart City (ITSSC 2021)</h3>
-                <p><strong>Road Surface Disease Detection Based on IMU Sensors.</strong> Oral presentation, Zheng Zhou, China, Nov 10, 2021.</p>
-            </div>
-        </li>
-        <li>
-            <div class="section">
-                <h3>The 10th Road and Airport Engineering Research Youth Forum</h3>
-                <p><strong>High-precision and high-efficiency detection of road surface defects based on inertial navigation system.</strong> Oral presentation, Ji Nan, China, Oct 31, 2021.</p>
-            </div>
-        </li>
-    </ol>
 </div>
