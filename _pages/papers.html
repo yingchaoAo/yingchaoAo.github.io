@@ -22,12 +22,14 @@ permalink: /papers/
             padding: 20px;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            counter-reset: paper-counter; /* 初始化计数器 */
         }
         h1 {
             text-align: center;
             color: #333;
         }
         .paper {
+            position: relative;
             margin-bottom: 30px;
             padding: 20px;
             border-radius: 10px;
@@ -51,66 +53,79 @@ permalink: /papers/
         .paper a:hover {
             text-decoration: underline;
         }
+        .paper::before {
+            content: counter(paper-counter);
+            counter-increment: paper-counter;
+            position: absolute;
+            top: 20px;
+            left: -40px;
+            background-color: #007bff;
+            color: #fff;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            font-weight: bold;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
     </style>
 </head>
+
+
 <body>
     <div class="container">
         <h1>Papers</h1>
         <div class="paper">
             <h2>Crack segmentation using discrete cosine transform in shadow environments</h2>
-            <p> <strong>Y. Zhang</strong> and C. Liu, <em>Automation in Construction</em>, vol. 166, p. 105646, 2024</p>
-            <p> <a href="link-to-paper1.pdf">Download</a></p>
+            <p> <strong>Y. Zhang</strong> and C. Liu, <em>Automation in Construction</em>, vol. 166, p. 105646, 2024.</p>
+            <p> <a href="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/files/AIC2024-2.pdf">Download</a></p>
         </div>
 
         <div class="paper">
             <h2>Real-time pavement damage detection with damage shape adaptation</h2>
-            <p> <strong>Y. Zhang</strong> and C. Liu</p>
-            <p> IEEE Transactions on Intelligent Transportation Systems </p>
-            <p> <a href="link-to-paper2.pdf">Download</a></p>
+            <p> <strong>Y. Zhang</strong> and C. Liu, <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2024.</p>
+            <p> <a href="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/files/TITS2024.pdf">Download</a></p>
         </div>
 
         <div class="paper">
             <h2>Network for robust and high-accuracy pavement crack segmentation</h2>
-            <p> <strong>Y. Zhang</strong> and C. Liu</p>
-            <p> Automation in Construction </p>
-            <p> <a href="link-to-paper2.pdf">Download</a></p>
+            <p> <strong>Y. Zhang</strong> and C. Liu, <em>Automation in Construction</em>, vol. 162, p. 105375, 2024.</p>
+            <p> <a href="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/files/AIC2024-1.pdf">Download</a></p>
         </div>
 
         <div class="paper">
             <h2>Road damage detection using uav images based on multi-level attention mechanism</h2>
-            <p> <strong>Y. Zhang</strong>, Z. Zuo, X. Xu, et al.</p>
-            <p> Automation in Construction </p>
-            <p> <a href="link-to-paper2.pdf">Download</a></p>
+            <p> <strong>Y. Zhang</strong>, Z. Zuo, X. Xu, et al., <em>Automation in Construction</em>, vol. 144, p. 104613, 2022.</p>
+            <p> <a href="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/files/AIC2022.pdf">Download</a></p>
         </div>
 
         <div class="paper">
             <h2>Road surface defects detection based on imu sensor</h2>
-            <p> <strong>Y. Zhang</strong>, Z. Ma, X. Song, et al.</p>
-            <p> IEEE Sensors Journal </p>
-            <p> <a href="link-to-paper2.pdf">Download</a></p>
+            <p> <strong>Y. Zhang</strong>, Z. Ma, X. Song, et al., <em>IEEE Sensors Journal</em>, vol. 22, pp. 2711-2721, 2021.</p>
+            <p> <a href="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/files/Sensor2022.pdf">Download</a></p>
         </div>
 
         <div class="paper">
             <h2>Optimal calculation method of pavement shakedown limit based on genetic algorithm</h2>
-            <p> X. Song, <strong>Y. Zhang</strong>, P. Zhuang, et al.</p>
-            <p>  Journal of Shandong University (Engineering Science) </p>
+            <p> X. Song, <strong>Y. Zhang</strong>, P. Zhuang, et al., <em>Journal of Shandong University (Engineering Science)</em>, vol. 51, pp. 1-7, 2021.</p>
             <p> <a href="link-to-paper2.pdf">Download</a></p>
         </div>
 
         <div class="paper">
             <h2>Modified calculation method of shaft friction for driven pile considering particle size effect</h2>
-            <p> P. Zhuang, <strong>Y. Zhang</strong>, X. Song, et al.</p>
-            <p> Journal of Shandong University (Engineering Science) </p>
+            <p> P. Zhuang, <strong>Y. Zhang</strong>, X. Song, et al., <em>Journal of Shandong University (Engineering Science)</em>, vol. 51, pp. 8-15, 2021.</p>
             <p> <a href="link-to-paper2.pdf">Download</a></p>
         </div>
 
         <div class="paper">
-            <h2>MIntelligent traffic detection with millimeter-wave radar and camera</h2>
-            <p> <strong>Y. Zhang</strong>, Z. Ma, W. Han, et al.</p>
-            <p>  International Conference on Intelligent Traffic Systems and Smart City (ITSSC 2021) </p>
+            <h2>Intelligent traffic detection with millimeter-wave radar and camera</h2>
+            <p> <strong>Y. Zhang</strong>, Z. Ma, W. Han, et al., <em>International Conference on Intelligent Traffic Systems and Smart City (ITSSC 2021)</em>, 2021</p>
             <p> <a href="link-to-paper2.pdf">Download</a></p>
         </div>
-        
+
     </div>
 </body>
 </html>
