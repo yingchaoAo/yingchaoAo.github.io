@@ -61,7 +61,8 @@ redirect_from:
     <h2>About Me</h2>
     <p>I am a Ph.D. student in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement condition assessment and intelligent traffic detection.</p>
     <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS
-
+</div>
+  
 <div class="highlighted-section">
     <h2>Education</h2>
     <p><strong>2023 - 2027 (expected):</strong> Ph.D. in Systems Engineering, City University of Hong Kong</p>
