@@ -91,7 +91,7 @@ redirect_from:
 </div>
 
 <div class="education-content">
-    My latest first author article has been accepted by <em>Automation in Construction</em>.
+    🎉🎉🎉 Aug 5, 2024, My latest first author article has been accepted by <em>Automation in Construction</em>.
 </div>
 
 
