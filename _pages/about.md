@@ -16,15 +16,15 @@ redirect_from:
         font-size: 1.5em;
         font-weight: bold;
     }
+  
     .headertitle {
-        background-color: white;
-        padding: 5px;
-        border-radius: 5px;
-        margin-bottom: 10px;
-        text-align: left;
-        font-size: 1.5em;
-        font-weight: bold;
-    }
+            font-weight: bold;
+            font-size: 24px;
+            margin: 20px 0;
+            background-color: transparent; /* 移除背景颜色 */
+            padding: 0; /* 移除内边距 */
+            border: none; /* 移除边框 */
+        }
     .section {
         padding: 10px;
         border-radius: 10px;
