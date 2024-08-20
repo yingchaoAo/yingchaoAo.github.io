@@ -99,8 +99,8 @@ redirect_from:
 </div>
 
 <div class="education-content">
-    🎉🎉🎉 <strong>Aug 19, 2024</strong>, I have passed the Ph.D QE exam!.
-    🎉🎉🎉 <strong>Aug 5, 2024</strong>, My latest first author article has been accepted by <em>Automation in Construction</em>.
+   <p> 🎉🎉🎉 <strong>Aug 19, 2024</strong>, I have passed the Ph.D QE exam!.</p>
+   <p> 🎉🎉🎉 <strong>Aug 5, 2024</strong>, My latest first author article has been accepted by <em>Automation in Construction</em>. <p>
 </div>
 
 
