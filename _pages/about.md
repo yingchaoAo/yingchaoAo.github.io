@@ -99,8 +99,8 @@ redirect_from:
 </div>
 
 <div class="education-content">
-   <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Research Tuition Scholarship</em>. </p>
-   <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students)</em>. </p>
+   <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Research Tuition Scholarship. </p>
+   <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students). </p>
    <p> 🎉🎉🎉 <strong>Aug 19, 2024</strong>, I have passed the Ph.D QE exam!.</p>
    
 </div>
