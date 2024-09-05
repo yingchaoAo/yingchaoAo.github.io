@@ -81,7 +81,7 @@ redirect_from:
 
 <div class="about-me-content">
     <p> 👋 I am a 🎓 Ph.D. candidate in Systems Engineering at the 🏫 City University of Hong Kong. My research interests 🔬 lie in transportation infrastructure, with a focus on pavement condition assessment and intelligent traffic detection.</p>
-    <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> 📝 and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS</em> and so on. My work has been cited <strong>70 times</strong> 📊 according to <a href="https://scholar.google.com">Google Scholar</a>, and the H-index is <strong>3</strong>.</p>
+    <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> 📝 and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS</em> and so on. My work has been cited <strong>71 times</strong> 📊 according to <a href="https://scholar.google.com">Google Scholar</a>, and the H-index is <strong>3</strong>.</p>
 </div>
 
 <div class="headertitle">
@@ -99,8 +99,10 @@ redirect_from:
 </div>
 
 <div class="education-content">
+   <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Research Tuition Scholarship</em>. </p>
+   <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students)</em>. </p>
    <p> 🎉🎉🎉 <strong>Aug 19, 2024</strong>, I have passed the Ph.D QE exam!.</p>
-   <p> 🎉🎉🎉 <strong>Aug 5, 2024</strong>, My latest first author article has been accepted by <em>Automation in Construction</em>. </p>
+   
 </div>
 
 
