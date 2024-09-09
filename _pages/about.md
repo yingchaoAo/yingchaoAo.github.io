@@ -81,7 +81,7 @@ redirect_from:
 
 <div class="about-me-content">
     <p> 👋 I am a 🎓 Ph.D. candidate in Systems Engineering at the 🏫 City University of Hong Kong. My research interests 🔬 lie in transportation infrastructure, with a focus on pavement condition assessment and intelligent traffic detection.</p>
-    <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> 📝 and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS</em> and so on. My work has been cited <strong>71 times</strong> 📊 according to <a href="https://scholar.google.com">Google Scholar</a>, and the H-index is <strong>3</strong>.</p>
+    <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> 📝 and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS</em> and so on. My work has been cited <strong>75 times</strong> 📊 according to <a href="https://scholar.google.com">Google Scholar</a>, and the H-index is <strong>4</strong>.</p>
 </div>
 
 <div class="headertitle">
