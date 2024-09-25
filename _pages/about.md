@@ -81,7 +81,7 @@ redirect_from:
 
 <div class="about-me-content">
     <p> 👋 I am a 🎓 Ph.D. candidate in Systems Engineering at the 🏫 City University of Hong Kong. My research interests 🔬 lie in transportation infrastructure, with a focus on pavement condition assessment and intelligent traffic detection.</p>
-    <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> 📝 and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS</em> and so on. My work has been cited <strong>75 times</strong> 📊 according to <a href="https://scholar.google.com">Google Scholar</a>, and the H-index is <strong>4</strong>.</p>
+    <p>Over the course of my academic journey, I have authored <strong>7 journal articles</strong> 📝 and <strong>1 conference paper</strong>, which have been published in prestigious venues such as <em>Automation in Construction</em> and <em>IEEE TITS</em> and so on. My work has been cited <strong>78 times</strong> 📊 according to <a href="https://scholar.google.com">Google Scholar</a>, and the H-index is <strong>4</strong>.</p>
 </div>
 
 <div class="headertitle">
@@ -91,7 +91,7 @@ redirect_from:
 <div class="education-content">
     <p>🎓<strong>2023 - 2027:</strong> Ph.D., City University of Hong Kong</p>
     <p>🏫<strong>2020 - 2023:</strong> M.Eng, Shandong University</p>
-    <p>📚<strong>2016 - 2020:</strong> B.Eng,Shandong University</p>
+    <p>📚<strong>2016 - 2020:</strong> B.Eng, Shandong University</p>
 </div>
 
 <div class="headertitle">
@@ -102,7 +102,6 @@ redirect_from:
    <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Research Tuition Scholarship. </p>
    <p> 🎉🎉🎉 <strong>Sep 1, 2024</strong>, I was awarded the Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students). </p>
    <p> 🎉🎉🎉 <strong>Aug 19, 2024</strong>, I have passed the Ph.D QE exam!.</p>
-   
 </div>
 
 
