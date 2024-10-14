@@ -7,7 +7,10 @@ main:
     url: /conferences/
     
   - title: "TA"
-    url: /teachings/ 
+    url: /teachings/
+
+  - title: "Travel"
+    url: /travels/
 
   - title: "Blog"
     url: /blogs/  
