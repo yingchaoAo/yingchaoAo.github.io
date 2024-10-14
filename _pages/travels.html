@@ -1,0 +1,79 @@
+---
+layout: default
+title: Travels
+permalink: /travels/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .location {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .location:nth-child(odd) {
+            background-color: #e6f7ff; /* light blue */
+        }
+        .location:nth-child(even) {
+            background-color: #fff1f0; /* light pink */
+        }
+        .location-number {
+            background-color: #1890ff;
+            color: white;
+            font-weight: bold;
+            font-size: 16px;
+            width: 28px;
+            height: 28px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+        .location-info {
+            flex: 1;
+        }
+        .gallery {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .gallery img {
+            width: 120px;
+            height: 80px;
+            object-fit: cover;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="location">
+        <div class="location-number">1</div>
+        <div class="location-info">
+            <h2>Location: Dragon's Back & Cape D'Aguilar</h2>
+            <p>Date: Oct 11, 2024</p>
+            <div class="gallery">
+                <img src="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/travel/1-longji/551728706536_.pic.jpg" alt="1">
+                <img src="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/travel/1-longji/511728706533_.pic.jpg" alt="2">
+                <img src="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/travel/1-longji/481728706525_.pic.jpg" alt="3">
+                <img src="https://github.com/yingchaoAo/yingchaoAo.github.io/blob/master/travel/1-longji/561728706537_.pic.jpg" alt="4">
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
